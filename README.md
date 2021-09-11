@@ -9,10 +9,6 @@ chmod +x cpanel-letsencrypt.sh
 ./cpanel-letsencrypt.sh
 ```
 
-Thanks to:
-- [Ali Saleh](https://parsdev.com/)
-- [Yasin Sanjari](https://configserver.pro/)
-
 Directadmin Letsencrypt Rechecking Bug Fix: https://gist.github.com/alisalehiman/180c7c6055cd31270de3d43b3a27e4c9
 
 More info:
